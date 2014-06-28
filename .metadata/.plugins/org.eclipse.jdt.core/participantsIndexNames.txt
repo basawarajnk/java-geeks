@@ -1,0 +1,7 @@
+INDEX VERSION 1.126
+/home/kalagi/Desktop/JavaDevelopment/CodingWorkspaceEclipse/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/1365831275.index
+/struts2-blank/src
+/home/kalagi/Desktop/JavaDevelopment/CodingWorkspaceEclipse/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/877426240.index
+/struts2-mailreader/src
+/home/kalagi/Desktop/JavaDevelopment/CodingWorkspaceEclipse/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/2302599577.index
+/struts2-blank/src

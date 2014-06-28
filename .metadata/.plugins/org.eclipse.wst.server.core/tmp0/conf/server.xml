@@ -131,7 +131,8 @@
                prefix="localhost_access_log." suffix=".txt" pattern="common" resolveHosts="false"/>
         -->
 
-      <Context docBase="/home/kalagi/Desktop/JavaDevelopment/CodingWorkspaceEclipse/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/wtpwebapps/ROOT" path="" reloadable="false"/></Host>
+      <Context docBase="/home/kalagi/Desktop/JavaDevelopment/CodingWorkspaceEclipse/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/wtpwebapps/ROOT" path="" reloadable="false"/><Context docBase="/home/kalagi/Desktop/JavaDevelopment/CodingWorkspaceEclipse/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/wtpwebapps/struts2-blank" path="/struts2-blank" reloadable="true" source="org.eclipse.jst.j2ee.server:struts2-blank"/><Context docBase="/home/kalagi/Desktop/JavaDevelopment/CodingWorkspaceEclipse/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/wtpwebapps/struts2-mailreader" path="/struts2-mailreader" reloadable="true" source="org.eclipse.jst.j2ee.server:struts2-mailreader">
+</Context></Host>
     </Engine>
   </Service>
 </Server>

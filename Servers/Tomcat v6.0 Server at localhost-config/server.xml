@@ -131,7 +131,7 @@
                prefix="localhost_access_log." suffix=".txt" pattern="common" resolveHosts="false"/>
         -->
 
-      </Host>
+      <Context docBase="struts2-blank" path="/struts2-blank" reloadable="true" source="org.eclipse.jst.j2ee.server:struts2-blank"/><Context docBase="struts2-mailreader" path="/struts2-mailreader" reloadable="true" source="org.eclipse.jst.j2ee.server:struts2-mailreader"/></Host>
     </Engine>
   </Service>
 </Server>
